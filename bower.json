@@ -1,0 +1,26 @@
+{
+  "name": "semantic.gs",
+  "version": "1.2.0",
+  "homepage": "https://github.com/isologic/semantic.gs",
+  "authors": [
+    "isologic <john@designwavestudio.com>"
+  ],
+  "description": "The Semantic Grid System is a modern approach to the CSS grid. Allows you to set column and gutter widths, choose the number of columns, switch between pixels and percentages, and achieve responsive layouts using SCSS/Sass, LESS CSS, or Stylus without any unsemantic grid classes in your markup.",
+  "main": "stylesheets/scss/grid.scss",
+  "keywords": [
+    "semantic",
+    "grid",
+    "semantic.gs",
+    "sass",
+    "scss",
+    "less",
+    "stylus"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
